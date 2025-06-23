@@ -1,0 +1,7 @@
+flask==3.1.1
+flask-cors==6.0.0
+flask-sqlalchemy==3.1.1
+twilio==9.6.3
+openai==1.90.0
+requests==2.32.4
+
